@@ -1,12 +1,5 @@
 ## Computer Networks Lab2 Evaluation
 
-#### Member:   Haodong Duan       Muge Chen
-
-#### Work:
-
-- Muge Chen: implement TCP SYN&ACK; implement TCP stop & wait
-- Haodong Duan: searching lab material, implement IPElement, implement 2 APP Elements(Client & Server) , design the TCPElement , implement TCP flow control, congestion control, FIN&ACK, stop&wait debug,   debug & test
-
 ## IP section
 
 - click for testing of basic functions：
